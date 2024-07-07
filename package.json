@@ -1,0 +1,8 @@
+{
+  "name": "data-viz-examples",
+  "version": "1.0.0",
+  "description": "Repo containing D3 examples",
+  "main": "index.js",
+  "author": "David Ruvolo",
+  "license": "MIT"
+}
