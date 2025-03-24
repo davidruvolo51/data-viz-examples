@@ -1,0 +1,15 @@
+certifi==2024.2.2
+cffi==1.15.1
+charset-normalizer==3.3.2
+datatable==1.1.0
+idna==3.6
+prompt-toolkit==3.0.39
+pycparser==2.21
+Pygments==2.15.1
+radian==0.6.6
+rchitect==0.3.40
+requests==2.31.0
+six==1.16.0
+tqdm==4.66.2
+urllib3==2.2.1
+wcwidth==0.2.6
